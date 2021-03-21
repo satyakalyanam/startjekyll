@@ -4,7 +4,7 @@ title: Team
 permalink: /about/team
 ---
 
-About content goes here.
+Team Page  content goes here.
 
 * A list item
 * Another list item
