@@ -11,9 +11,6 @@ A guide to getting started with Jekyll.
 - Create a custom website running on Jekyll and Sass
 - Deploy a Jekyll site to GitHub pages
 
-## Author
-
-- [Tania Rascia](https://www.taniarascia.com)
 
 ## License
 
